@@ -1,0 +1,33 @@
+<annotation>
+    <folder>validate</folder>
+    <filename>img_110.jpg</filename>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Triangle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>380</xmin>
+            <ymin>251</ymin>
+            <xmax>517</xmax>
+            <ymax>384</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>toy_Car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>176</xmin>
+            <ymin>135</ymin>
+            <xmax>364</xmax>
+            <ymax>263</ymax>
+        </bndbox>
+    </object>
+</annotation>

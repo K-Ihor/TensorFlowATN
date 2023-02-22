@@ -1,0 +1,33 @@
+<annotation>
+    <folder>train</folder>
+    <filename>img_ca-gn_6.jpg</filename>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>toy_Car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>227</xmin>
+            <ymin>343</ymin>
+            <xmax>416</xmax>
+            <ymax>570</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Gun</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>390</xmin>
+            <ymin>262</ymin>
+            <xmax>501</xmax>
+            <ymax>324</ymax>
+        </bndbox>
+    </object>
+</annotation>

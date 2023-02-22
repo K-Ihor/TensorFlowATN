@@ -1,0 +1,33 @@
+<annotation>
+    <folder>train</folder>
+    <filename>img_gn-tr_7.jpg</filename>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Gun</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>377</xmin>
+            <ymin>373</ymin>
+            <xmax>468</xmax>
+            <ymax>502</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Triangle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>545</xmin>
+            <ymin>455</ymin>
+            <xmax>724</xmax>
+            <ymax>540</ymax>
+        </bndbox>
+    </object>
+</annotation>

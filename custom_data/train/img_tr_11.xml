@@ -1,0 +1,21 @@
+<annotation>
+    <folder>train</folder>
+    <filename>img_tr_11.jpg</filename>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Triangle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>190</xmin>
+            <ymin>301</ymin>
+            <xmax>508</xmax>
+            <ymax>447</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,21 @@
+<annotation>
+    <folder>train</folder>
+    <filename>img_ca_15.jpg</filename>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>toy_Car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>333</xmin>
+            <ymin>270</ymin>
+            <xmax>455</xmax>
+            <ymax>412</ymax>
+        </bndbox>
+    </object>
+</annotation>

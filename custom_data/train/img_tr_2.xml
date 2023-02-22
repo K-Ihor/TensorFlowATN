@@ -1,0 +1,33 @@
+<annotation>
+    <folder>train</folder>
+    <filename>img_tr_2.jpg</filename>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>toy_Car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>455</xmin>
+            <ymin>306</ymin>
+            <xmax>546</xmax>
+            <ymax>370</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Triangle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>529</xmin>
+            <ymin>462</ymin>
+            <xmax>727</xmax>
+            <ymax>597</ymax>
+        </bndbox>
+    </object>
+</annotation>

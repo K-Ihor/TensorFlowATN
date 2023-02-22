@@ -1,0 +1,21 @@
+<annotation>
+    <folder>validate</folder>
+    <filename>img_105.jpg</filename>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Gun</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>318</xmin>
+            <ymin>187</ymin>
+            <xmax>509</xmax>
+            <ymax>358</ymax>
+        </bndbox>
+    </object>
+</annotation>

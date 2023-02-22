@@ -1,0 +1,21 @@
+<annotation>
+    <folder>train</folder>
+    <filename>img_gn_12.jpg</filename>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Gun</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>371</xmin>
+            <ymin>405</ymin>
+            <xmax>467</xmax>
+            <ymax>573</ymax>
+        </bndbox>
+    </object>
+</annotation>
